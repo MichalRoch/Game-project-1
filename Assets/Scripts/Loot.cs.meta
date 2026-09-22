@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fc1544f1fcc597343bac3774719d900b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LootSprite: {instanceID: 0}
+  - meat: {instanceID: 0}
+  - healingPotion: {instanceID: 0}
+  - strengthPotion: {instanceID: 0}
+  - emptyBottle: {instanceID: 0}
+  - gem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
